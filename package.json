@@ -1,0 +1,16 @@
+{
+  "name": "xx_webapp2_test_repo",
+  "version": "1.0.0",
+  "description": "test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": { "type": "git", "url": "git+https://github.com/uupaa/xx_webapp2_test_repo.git" },
+  "rollup": {
+    "es6": "lib/xx_webapp2_test_repo.es6.js",
+    "cjs": "lib/xx_webapp2_test_repo.cjs.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
