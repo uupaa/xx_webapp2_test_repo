@@ -7,10 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": { "type": "git", "url": "git+https://github.com/uupaa/xx_webapp2_test_repo.git" },
-  "rollup": {
-    "es6": "lib/xx_webapp2_test_repo.es6.js",
-    "cjs": "lib/xx_webapp2_test_repo.cjs.js"
-  },
+  "es6": "lib/xx_webapp2_test_repo.es6.js",
   "author": "",
   "license": "MIT"
 }
