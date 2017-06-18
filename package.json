@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": { "type": "git", "url": "git+https://github.com/uupaa/xx_webapp2_test_repo.git" },
-  "es6": "lib/xx_webapp2_test_repo.es6.js",
+  "es6js": "lib/xx_webapp2_test_repo.es6.js",
   "author": "",
   "license": "MIT"
 }
